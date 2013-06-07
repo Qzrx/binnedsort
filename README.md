@@ -29,4 +29,4 @@ binsort2():
 >Sorting random list of size  10,000,000 :  0.083890914917 s  
 >Sorting random list of size 100,000,000 :  0.0829861164093 s  
 
-Yeah. I like binsort2. A lot.
+0.8s for n>10k? Oh. Maximum recursion depth. Hm.
