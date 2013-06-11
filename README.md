@@ -30,3 +30,8 @@ binsort2():
 >Sorting random list of size 100,000,000 :  0.0829861164093 s  
 
 0.8s for n>10k? Oh. Maximum recursion depth. Hm.
+
+Todo:
+========
+Modify middle-element to contain all items equal to the pivot
+Modify the flow so that we're tossing things in to L/R as we go through the list (current implementation was just for the sake of using list comprehensions). Right now we're doing 3 walks of it when we should only need to do one.
