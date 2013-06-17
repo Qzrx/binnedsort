@@ -1,3 +1,5 @@
+Yes, this is Quicksort. The objective of this and sucksort was to write a sorting algorithm from scratch with no reference of any kind allowed. Sucksort was the first attempt/implementation, this is the second.
+
 binnedsort
 ==========
 
